@@ -1,2 +1,2 @@
 # DummyScreens
-dummy service screens
+dummy SERVINCO screens
